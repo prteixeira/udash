@@ -5,6 +5,7 @@ import pandas as pd
 hide_streamlit_style = """
 <style>
 #MainMenu {visibility: hidden;}
+viewerBadge_link__1S137 {visibility: hidden;}
 footer {visibility: hidden;}
 </style>
 
